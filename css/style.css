@@ -803,3 +803,11 @@ $grey: #999;
 
 /** end footer **/
 
+.logo-font{
+     font-family: 'Roboto', sans-serif;
+     font-size: 46px;
+     color: black;
+     font-weight: 600;
+     font-style: italic;
+}
+
